@@ -1,2 +1,4 @@
-# Axe Boat #MIXFORPEACE (Recreation)
-Check out my latest HTML5 project! It's a recreation of the **'Mix For Peace'** version of Incredibox, which was part of a campaign with Axe. I took some stuff from the original Flash game, but I gotta admit, the bonus quality is a little bit bad. Altough, I put a lot of effort on this, so show me some love, alright? Hope you have fun!
+# Axe Boat #MIXFORPEACE
+This is a recreation of the **'Mix For Peace'** version of Incredibox, which was originally made in flash player. I took some stuff from the original Flash game and another from some mods.
+
+I put a lot of effort on this, so show me some love, alright? Hope you have fun!
